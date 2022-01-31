@@ -89,7 +89,6 @@ widgetsnbextension==3.5.2
 yfinance==0.1.70
 arviz==0.11.4
 brotli==1.0.9
-ca-certificates==2021.10.8
 certifi==2021.10.8
 cftime==1.5.2
 colorama==0.4.4
