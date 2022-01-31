@@ -62,7 +62,6 @@ pygments==2.11.2
 pympler==1.0.1
 pyrsistent==0.18.1
 pytz-deprecation-shim==0.1.0.post0
-pywinpty==2.0.1
 pyzmq==22.3.0
 requests==2.27.1
 send2trash==1.8.0
