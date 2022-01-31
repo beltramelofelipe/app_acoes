@@ -98,7 +98,6 @@ cython==0.29.27
 ephem==3.7.7.1
 fbprophet==0.7.1
 fonttools==4.29.0
-freetype==2.10.4
 hdf4==4.2.15
 hdf5==1.12.1
 hijri-converter==2.2.2
